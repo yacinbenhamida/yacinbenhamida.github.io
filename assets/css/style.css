@@ -189,11 +189,11 @@ select:focus {
 }
 
 a.text-dark:hover {
-  color: #41228e !important;
+  color: #052acc !important;
 }
 
 a:hover {
-  color: #41228e;
+  color: #052acc;
 }
 
 .slick-slide {
@@ -249,7 +249,7 @@ a:hover {
 }
 
 .text-primary {
-  color: #41228e !important;
+  color: #052acc !important;
 }
 
 .text-color {
@@ -386,7 +386,7 @@ a:hover {
 }
 
 .form-control:focus {
-  border-color: #41228e;
+  border-color: #052acc;
   outline: 0;
   box-shadow: none !important;
 }
@@ -596,7 +596,7 @@ textarea.form-control {
 }
 
 .hover-bg-primary:hover {
-  background: #41228e;
+  background: #052acc;
 }
 
 .hover-bg-primary:hover * {
@@ -605,7 +605,7 @@ textarea.form-control {
 
 .active-bg-primary {
   transition: .3s ease;
-  background: #41228e;
+  background: #052acc;
 }
 
 .active-bg-primary * {
@@ -756,7 +756,7 @@ blockquote {
   display: inline-block;
   padding: 10px 20px;
   background: #eaeaea;
-  border-left: 2px solid #41228e;
+  border-left: 2px solid #052acc;
   font-style: italic;
   font-size: 22px;
 }
