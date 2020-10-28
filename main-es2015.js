@@ -1,0 +1,896 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"],{
+
+/***/ "./$$_lazy_route_resource lazy recursive":
+/*!******************************************************!*\
+  !*** ./$$_lazy_route_resource lazy namespace object ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncaught exception popping up in devtools
+	return Promise.resolve().then(function() {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/about-page/about-page.component.html":
+/*!********************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/about-page/about-page.component.html ***!
+  \********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<!DOCTYPE html>\n<html lang=\"zxx\">\n\n<head>\n  <meta charset=\"utf-8\">\n  <!-- mobile responsive meta -->\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n  \n\n</head>\n\n<body>\n<!-- page title -->\n<section class=\"page-title-alt bg-primary position-relative\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12\">\n        <h1 class=\"text-white font-tertiary\">A propos</h1>\n      </div>\n    </div>\n  </div>\n  <!-- background shapes -->\n  <img src=\"assets/images/illustrations/leaf-bg-top.png\" alt=\"illustrations\" class=\"bg-shape-1 w-100\">\n  <img src=\"assets/images/illustrations/dots-group-sm.png\" alt=\"illustrations\" class=\"bg-shape-2\">\n  <img src=\"assets/images/illustrations/leaf-yellow.png\" alt=\"illustrations\" class=\"bg-shape-3\">\n  <img src=\"assets/images/illustrations/leaf-orange.png\" alt=\"illustrations\" class=\"bg-shape-4\">\n  <img src=\"assets/images/illustrations/dots-group-cyan.png\" alt=\"illustrations\" class=\"bg-shape-5\">\n  <img src=\"assets/images/illustrations/leaf-cyan-lg.png\" alt=\"illustrations\" class=\"bg-shape-6\">\n</section>\n<!-- /page title -->\n\n<!-- about -->\n<section class=\"section pt-5\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-md-8\">\n        <p> IT engineering student and full stack web developer, having acquired a significant amount of experience in developing, structuring, managing and deploying quality software, that complies with the modern standards. </p>\n        <p>During my journey i was able to deliver mobile and web applications</p>\n        <p>\n            I am actually studying IT engineering, i am also able to participate in all of the phases of a software development lifecycle, with a good sense of extracting and understanding the client's needs and converting them to technical specifications.a \n          Curious is what i am, i make sure that every detail counts during the orchestration of the system, by respecting the four main concepts of a modern software, quality, resuability, security and scalability.\n          I am also able to :\n        </p>       \n        <ul>\n            <li>Multiplatform application development</li>\n            <li>Service oriented architecture (SOA)</li>\n            <li>microservices architecture</li>\n            <li>Java EE and N tiers architectures</li>\n            <li>Software development lifecycle (SDLC)</li>\n            <li>git source control (GIT)</li>\n            <li>CI/CD, Docker</li>\n            <li>Team Building & Leadership</li>\n            <li>Agile methodologies</li>\n            <li>Database administration (ORACLE, SQLSERVER, MySQL, NoSQL : MongoDB, cassandra)</li>\n            <li>UML, MERISE</li>\n          </ul>\n      </div>\n      <div class=\"col-md-4 text-center drag-lg-top\">\n        <div class=\"shadow-down mb-4\">\n          <img src=\"assets/images/about/author.jpg\" alt=\"author\" class=\"img-fluid w-100 rounded-lg border-thick border-white\">\n        </div>\n        <img src=\"assets/images/about/signature.png\" alt=\"signature\" class=\"img-fluid\">\n        <h4>Yassine Ben Hamida</h4>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- /about -->\n<!-- skills -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row justify-content-around\">\n      <div class=\"col-lg-12 text-center\">\n        <h2 class=\"section-title\">Skills</h2>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n        <h4>Angular</h4>\n        <h6 class=\"text-light\">Web (FrontEnd)</h6>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n        <h4>React JS</h4>\n        <h6 class=\"text-light\">Web (FrontEnd)</h6>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n        <h4>Spring Boot</h4>\n        <h6 class=\"text-light\">Web (Front & BackEnd)</h6>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n        <h4>Symfony</h4>\n        <h6 class=\"text-light\">Web (Front & BackEnd)</h6>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n          <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n          <h4>Android</h4>\n          <h6 class=\"text-light\">Mobile</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n            <h4>Node JS</h4>\n            <h6 class=\"text-light\">Backend</h6>\n          </div>\n          \n          <div class=\"col-lg-3 col-md-4 text-center\">\n              <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n              <h4>Java FX</h4>\n              <h6 class=\"text-light\">Desktop</h6>\n            </div>\n            <div class=\"col-lg-3 col-md-4 text-center\">\n                <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                <h4>WPF (Windows presentation foundation)</h4>\n                <h6 class=\"text-light\">Desktop</h6>\n              </div>\n              <div class=\"col-lg-3 col-md-4 text-center\">\n                  <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n                  <h4>Java Server Faces (JSF) </h4>\n                  <h6 class=\"text-light\">Web</h6>\n                </div>\n                <div class=\"col-lg-3 col-md-4 text-center\">\n                    <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n                    <h4>ASP .NET </h4>\n                    <h6 class=\"text-light\">Web</h6>\n                  </div>\n                <div class=\"col-lg-3 col-md-4 text-center\">\n                    <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                    <h4>Django</h4>\n                    <h6 class=\"text-light\">Web (frontend & backend)</h6>\n                  </div>\n                  <div class=\"col-lg-3 col-md-4 text-center\">\n                    <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                    <h4>Flask</h4>\n                    <h6 class=\"text-light\">Web (frontend & backend)</h6>\n                  </div>\n                  <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n                      <h4>Laravel</h4>\n                      <h6 class=\"text-light\">Web (frontend & backend)</h6>\n                    </div>\n                    <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n                      <h4>Ionic</h4>\n                      <h6 class=\"text-light\">Mobile</h6>\n                    </div>\n                    <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n                      <h4>MongoDB</h4>\n                      <h6 class=\"text-light\">Database</h6>\n                    </div>\n                    <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                      <h4>MySQL</h4>\n                      <h6 class=\"text-light\">Database</h6>\n                    </div>\n    </div>\n  </div>\n</section>\n<!-- /skills -->\n\n<!-- Work Process -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row justify-content-around\">\n      <div class=\"col-lg-12 text-center\">\n        <h2 class=\"section-title\">Work process</h2>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center hover-shadow pt-3\">\n        <div class=\"\">\n          <img src=\"assets/images/icons/plan.png\" class=\"mb-4\" alt=\"icon\">\n          <h4 class=\"mb-4\">Analysis</h4>\n          <p>Requirements extraction</p>\n        </div>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center hover-shadow pt-3\">\n        <img src=\"assets/images/icons/design.png\" class=\"mb-4\" alt=\"icon\">\n        <h4 class=\"mb-4\">Coding and testing</h4>\n        <p>Coding and testing are my main tasks.</p>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center hover-shadow pt-3\">\n        <img src=\"assets/images/icons/print.png\" class=\"mb-4\" alt=\"icon\">\n        <h4 class=\"mb-4\">Delivery</h4>\n        <p>Testing the app on staging by continuously delivering new versions.</p>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- ./Work Process -->\n\n\n<!-- clients -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12 text-center\">\n        <h2 class=\"section-title\">Places i worked in</h2>\n      </div>\n    </div>\n    <div class=\"row\">\n      <div class=\"col-12\">\n        <div class=\"client-logo-slider d-flex align-items-center\">\n            <a href=\"http://esprit.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-1.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.isetch.rnu.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-2.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.cni.tn/index.php/fr/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-3.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.biat.com.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-4.png\" alt=\"client-logo\"></a>\n          <a href=\"https://www.my365.tn\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-5.png\" alt=\"client-logo\"></a>\n          <a href=\"http://esprit.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-1.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.isetch.rnu.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-2.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.cni.tn/index.php/fr/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-3.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.biat.com.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-4.png\" alt=\"client-logo\"></a>\n          <a href=\"https://www.my365.tn\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-5.png\" alt=\"client-logo\"></a>\n        </div>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- /clients -->\n<!-- experience  v-->\n<section class=\"section\">\n    <div class=\"container\">\n      <div class=\"row justify-content-around\">\n        <div class=\"col-lg-12 text-center\">\n          <h2 class=\"section-title\">Volunteering</h2>\n        </div>     \n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <img src=\"assets/images/portfolio/aiesec.png\" class=\"mb-4\" alt=\"icon\">\n          <p class=\"mb-0\">July 2019 - September 2019</p>\n          <h4>Exchange participant</h4>\n          <h6 class=\"text-light\">AIESEC Turkey (BURSA)</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <img src=\"assets/images/portfolio/365.png\" class=\"mb-4\" alt=\"icon\">\n            <p class=\"mb-0\">Feburary 2018 - June 2018</p>\n            <h4>my365 student champion(My365.tn)</h4>\n            <h6 class=\"text-light\">Microsoft Tunisia</h6>\n          </div>\n      </div>\n    </div>\n  </section>\n  <!-- ./experience -->\n  <!-- certifs  v-->\n<section class=\"section\">\n    <div class=\"container\">\n      <div class=\"row -content-around\">\n        <div class=\"col-lg-12 text-center\">\n          <h2 class=\"section-title\">Certifications</h2>\n        </div>     \n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <img src=\"assets/images/portfolio/aiesec_cert.png\" class=\"mb-4\" alt=\"icon\">\n          <p class=\"mb-0\">2019</p>\n          <h4>AIESEC international</h4>\n        </div>\n      </div>\n      <div class=\"row justify-content-around\">\n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <img src=\"assets/images/portfolio/msft_cert.png\" class=\"mb-4\" alt=\"icon\">\n            <p class=\"mb-0\">2018</p>\n            <h4>Microsoft Tunisia</h4>\n          </div>\n      </div>\n    </div>\n  </section>\n  <!-- ./experience -->\n\n\n<!-- footer -->\n<footer class=\"bg-dark footer-section\">\n  <div class=\"section\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Email</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">yacinbenhamida@hotmail.fr</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Phone number</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">+216 58 014 044</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Adress</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">2000, Le bardo Tunis, Tunisia</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>\n\n</body>\n</html>");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html":
+/*!**************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html ***!
+  \**************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<!DOCTYPE html>\n<html lang=\"zxx\">\n\n<head>\n  <meta charset=\"utf-8\">\n  <title>yacinbenhamida</title>\n  <!-- mobile responsive meta -->\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">\n</head>\n\n<body>\n  <app-navbar></app-navbar>\n  <router-outlet></router-outlet>\n</body>\n</html>");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/contact-pag/contact-pag.component.html":
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/contact-pag/contact-pag.component.html ***!
+  \**********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n<!-- page title -->\n<section class=\"page-title bg-primary position-relative\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-12 text-center\">\n          <h1 class=\"text-white font-tertiary\">Contacts</h1>\n        </div>\n      </div>\n    </div>\n    <!-- background shapes -->\n    <img src=\"assets/images/illustrations/page-title.png\" alt=\"illustrations\" class=\"bg-shape-1 w-100\">\n    <img src=\"assets/images/illustrations/leaf-pink-round.png\" alt=\"illustrations\" class=\"bg-shape-2\">\n    <img src=\"assets/images/illustrations/dots-cyan.png\" alt=\"illustrations\" class=\"bg-shape-3\">\n    <img src=\"assets/images/illustrations/leaf-orange.png\" alt=\"illustrations\" class=\"bg-shape-4\">\n    <img src=\"assets/images/illustrations/leaf-yellow.png\" alt=\"illustrations\" class=\"bg-shape-5\">\n    <img src=\"assets/images/illustrations/dots-group-cyan.png\" alt=\"illustrations\" class=\"bg-shape-6\">\n    <img src=\"assets/images/illustrations/leaf-cyan-lg.png\" alt=\"illustrations\" class=\"bg-shape-7\">\n  </section>\n  <!-- /page title -->\n  \n  <!-- contact -->\n  <section class=\"section section-on-footer\" data-background=\"assets/images/backgrounds/bg-dots.png\">\n    <div class=\"container\">\n      <div class=\"row\">\n          <div class=\"col-lg-8 mx-auto\">\n                          <div class=\"client-logo-slider d-flex align-items-center\">                        \n                                <a class=\"text-center d-block outline-0 p-4\" href=\"https://www.facebook.com/yacinbenhamidaa\"><i class=\"ti-facebook\"></i></a>\n                                <a class=\"text-center d-block outline-0 p-4\" href=\"https://www.instagram.com/yacinbenhamida\"><i class=\"ti-instagram\"></i></a>\n                                <a class=\"text-center d-block outline-0 p-4\" href=\"https://www.linkedin.com/in/yacinbenhamida\"><i class=\"ti-linkedin\"></i></a>\n                                <a class=\"text-center d-block outline-0 p-4\" href=\"https://twitter.com/yacinbenhamida\"><i class=\"ti-twitter\"></i></a>\n                          </div>\n            </div>\n        <div class=\"col-12 text-center\">\n          <h2 class=\"section-title\">Contact Info</h2>\n        </div>\n        \n        <div class=\"col-lg-8 mx-auto\">\n            <div class=\"bg-white rounded text-center p-5 shadow-down\">\n              <form action=\"#\" class=\"row\">\n                <div class=\"col-md-6\">\n                  <input type=\"text\" id=\"name\" name=\"name\" placeholder=\"Nom complet\" class=\"form-control px-0 mb-4\">\n                </div>\n                <div class=\"col-md-6\">\n                  <input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Adresse mail\" class=\"form-control px-0 mb-4\">\n                </div>\n                <div class=\"col-12\">\n                  <textarea name=\"message\" id=\"message\" class=\"form-control px-0 mb-4\"\n                    placeholder=\"Votre message\"></textarea>\n                </div>\n                <div class=\"col-lg-6 col-10 mx-auto\">\n                  <button class=\"btn btn-primary w-100\" disabled>Envoyer</button>\n                </div>\n              </form>\n            </div>\n          </div>\n      </div>\n    </div>\n  </section>\n  <!-- /contact -->\n  \n  <!-- footer -->\n  <footer class=\"bg-dark footer-section\">\n    <div class=\"section\">\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-md-4\">\n            <h5 class=\"text-light\">Email</h5>\n            <p class=\"text-white paragraph-lg font-secondary\">yacinbenhamida@hotmail.fr</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Phone</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">+216 58 014 044</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Address</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">2000, Le bardo Tunis</p>\n          </div>\n        </div>\n      </div>\n    </div>\n  </footer>\n  <!-- /footer -->");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/home-page/home-page.component.html":
+/*!******************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/home-page/home-page.component.html ***!
+  \******************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<!-- hero area -->\n<section class=\"hero-area bg-primary\" id=\"parallax\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-lg-11 mx-auto\">\n        <h1 class=\"text-white font-tertiary\">Hello <br> i am Yassine<br>Full stack web developer</h1>\n      </div>\n    </div>\n  </div>\n  <div class=\"layer-bg w-100\">\n    <img class=\"img-fluid w-100\" src=\"assets/images/illustrations/leaf-bg.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l2\">\n    <img src=\"assets/images/illustrations/dots-cyan.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l3\">\n    <img src=\"assets/images/illustrations/leaf-orange.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l4\">\n    <img src=\"assets/images/illustrations/dots-orange.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l5\">\n    <img src=\"assets/images/illustrations/leaf-yellow.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l6\">\n    <img src=\"assets/images/illustrations/leaf-cyan.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l7\">\n    <img src=\"assets/images/illustrations/dots-group-orange.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l8\">\n    <img src=\"assets/images/illustrations/leaf-pink-round.png\" alt=\"bg-shape\">\n  </div>\n  <div class=\"layer\" id=\"l9\">\n    <img src=\"assets/images/illustrations/leaf-cyan-2.png\" alt=\"bg-shape\">\n  </div>\n  <!-- social icon -->\n  <ul class=\"list-unstyled ml-5 mt-3 position-relative zindex-1\">\n    <li class=\"mb-3\"><a class=\"text-white\" rel=\"nofollow\" href=\"https://www.facebook.com/yacinbenhamidaa\"><i class=\"ti-facebook\"></i></a></li>\n    <li class=\"mb-3\"><a class=\"text-white\" rel=\"nofollow\" href=\"https://www.instagram.com/yacinbenhamida\"><i class=\"ti-instagram\"></i></a></li>\n    <li class=\"mb-3\"><a class=\"text-white\" rel=\"nofollow\" href=\"https://www.linkedin.com/in/yacinbenhamida\"><i class=\"ti-linkedin\"></i></a></li>\n    <li class=\"mb-3\"><a class=\"text-white\" rel=\"nofollow\" href=\"https://twitter.com/yacinbenhamida\"><i class=\"ti-twitter\"></i></a></li>\n  </ul>\n  <!-- /social icon -->\n</section>\n<!-- /hero area -->\n\n<!-- about -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-lg-10 mx-auto text-center\">\n          <p class=\"font-secondary paragraph-lg text-dark\">A web developer specialized in full stack technologies having acquired a significant amount of experience in structuring, managing and deploying web application using innovative sustainable technologies. Able to complete projects efficiently and satisfy customers with attractive, user friendly websites. </p>\n        <a routerLink=\"/about\" class=\"btn btn-transparent\">See more</a>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- /about -->\n\n<!-- skills -->\n<section class=\"section\">\n    <div class=\"container\">\n      <div class=\"row justify-content-around\">\n        <div class=\"col-lg-12 text-center\">\n          <h2 class=\"section-title\">Skills</h2>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n          <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n          <h4>Angular</h4>\n          <h6 class=\"text-light\">Web (FrontEnd)</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n          <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n          <h4>React JS</h4>\n          <h6 class=\"text-light\">Web (FrontEnd)</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n          <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n          <h4>Spring Boot</h4>\n          <h6 class=\"text-light\">Web (Front & BackEnd)</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n          <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n          <h4>Symfony</h4>\n          <h6 class=\"text-light\">Web (Front & BackEnd)</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n            <h4>Android</h4>\n            <h6 class=\"text-light\">Mobile</h6>\n          </div>\n          <div class=\"col-lg-3 col-md-4 text-center\">\n              <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n              <h4>Node JS</h4>\n              <h6 class=\"text-light\">Backend</h6>\n            </div>\n            \n            <div class=\"col-lg-3 col-md-4 text-center\">\n                <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                <h4>Java FX</h4>\n                <h6 class=\"text-light\">Desktop</h6>\n              </div>\n              <div class=\"col-lg-3 col-md-4 text-center\">\n                  <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                  <h4>WPF (Windows presentation foundation)</h4>\n                  <h6 class=\"text-light\">Desktop</h6>\n                </div>\n                <div class=\"col-lg-3 col-md-4 text-center\">\n                    <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n                    <h4>Java Server Faces (JSF) </h4>\n                    <h6 class=\"text-light\">Web</h6>\n                  </div>\n                  <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n                      <h4>ASP .NET </h4>\n                      <h6 class=\"text-light\">Web</h6>\n                    </div>\n                  <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                      <h4>Django</h4>\n                      <h6 class=\"text-light\">Web (frontend & backend)</h6>\n                    </div>\n                    <div class=\"col-lg-3 col-md-4 text-center\">\n                      <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                      <h4>Flask</h4>\n                      <h6 class=\"text-light\">Web (frontend & backend)</h6>\n                    </div>\n                    <div class=\"col-lg-3 col-md-4 text-center\">\n                        <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n                        <h4>Laravel</h4>\n                        <h6 class=\"text-light\">Web (frontend & backend)</h6>\n                      </div>\n                      <div class=\"col-lg-3 col-md-4 text-center\">\n                        <img src=\"assets/images/experience/icon-1.png\" alt=\"icon\">\n                        <h4>Ionic</h4>\n                        <h6 class=\"text-light\">Mobile</h6>\n                      </div>\n                      <div class=\"col-lg-3 col-md-4 text-center\">\n                        <img src=\"assets/images/experience/icon-2.png\" alt=\"icon\">\n                        <h4>MongoDB</h4>\n                        <h6 class=\"text-light\">Database</h6>\n                      </div>\n                      <div class=\"col-lg-3 col-md-4 text-center\">\n                        <img src=\"assets/images/experience/icon-3.png\" alt=\"icon\">\n                        <h4>MySQL</h4>\n                        <h6 class=\"text-light\">Database</h6>\n                      </div>\n      </div>\n    </div>\n  </section>\n<!-- /skills -->\n\n<!-- experience -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row justify-content-around\">\n      <div class=\"col-lg-12 text-center\">\n        <h2 class=\"section-title\">Work experience</h2>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/C.png\" width=\"150\" height=\"150\" alt=\"icon\">\n        <p class=\"mb-0\">February 2018 - June 2018</p>\n        <h4>Stagiaire web full stack</h4>\n        <h6 >National center of informatics</h6>\n      </div>\n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/Z.jpg\" width=\"150\" height=\"150\" alt=\"icon\">\n        <p class=\"mb-0\">July 2020 - September 2020</p>\n        <h4>QA & frontend developer</h4>\n        <h6 >ZettaByte Pte LTD</h6>\n      </div>\n      \n      <div class=\"col-lg-3 col-md-4 text-center\">\n        <img src=\"assets/images/experience/F.png\" width=\"150\" height=\"150\" alt=\"icon\">\n        <p class=\"mb-0\">June 2020 - December 2020</p>\n        <h4>Full stack web consultant & developer</h4>\n        <h6 >Farmavans</h6>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- ./experience -->\n<!-- experience  v-->\n<section class=\"section\">\n    <div class=\"container\">\n      <div class=\"row justify-content-around\">\n        <div class=\"col-lg-12 text-center\">\n          <h2 class=\"section-title\">Volunteering experiences</h2>\n        </div>     \n        <div class=\"col-lg-3 col-md-4 text-center\">\n          <p class=\"mb-0\">July 2019 - September 2019</p>\n          <h4>Exchange participant</h4>\n          <h6 class=\"text-light\">AIESEC Turkey, Bursa</h6>\n        </div>\n        <div class=\"col-lg-3 col-md-4 text-center\">\n            <p class=\"mb-0\">February 2018 - June 2018</p>\n            <h4>My365 student champion (My365.tn)</h4>\n            <h6 class=\"text-light\">Microsoft Tunisia</h6>\n          </div>\n      </div>\n    </div>\n  </section>\n  <!-- ./experience -->\n<!-- clients -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12\">\n        <div class=\"client-logo-slider d-flex align-items-center\">\n            <a href=\"http://esprit.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-1.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.isetch.rnu.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-2.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.cni.tn/index.php/fr/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-3.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.biat.com.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-4.png\" alt=\"client-logo\"></a>\n          <a href=\"https://www.my365.tn\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-5.png\" alt=\"client-logo\"></a>\n          <a href=\"http://esprit.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-1.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.isetch.rnu.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-2.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.cni.tn/index.php/fr/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-3.png\" alt=\"client-logo\"></a>\n          <a href=\"http://www.biat.com.tn/\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-4.png\" alt=\"client-logo\"></a>\n          <a href=\"https://www.my365.tn\" class=\"text-center d-block outline-0 p-4\"><img class=\"d-unset img-fluid\"\n              src=\"assets/images/clients-logo/client-logo-5.png\" alt=\"client-logo\"></a>\n        </div>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- /clients -->\n<!--education -->\n<section class=\"section position-relative\">\n\n<div class=\"container\">\n  <div class=\"col-lg-12 text-center\">\n    <h2 class=\"section-title\">Education</h2>\n  </div>\n  <ul class=\"timeline\">\n      <li>\n        <div class=\"timeline-badge\"><i class=\"glyphicon glyphicon-check\"></i></div>\n        <div class=\"timeline-panel\">\n          <div class=\"timeline-heading\">\n            <h4 class=\"timeline-title\">Bardo high school</h4>\n            <p><small class=\"text-muted\"><i class=\"glyphicon glyphicon-time\"></i> 2011-2015</small></p>\n          </div>\n          <div class=\"timeline-body\">\n            <p>Scientific baccalaureate</p>\n          </div>\n        </div>\n      </li>\n      <li class=\"timeline-inverted\">\n        <div class=\"timeline-badge warning\"><i class=\"glyphicon glyphicon-credit-card\"></i></div>\n        <div class=\"timeline-panel\">\n          <div class=\"timeline-heading\">\n            <h4 class=\"timeline-title\">Higher institute of technological studies of charguia</h4>\n            <p><small class=\"text-muted\"><i class=\"glyphicon glyphicon-time\"></i> 2015-2018</small></p>\n          </div>\n          <div class=\"timeline-body\">\n            <p>Bachelor's degree in information technology specialized in software development.</p>\n          </div>\n        </div>\n      </li>\n      <li>\n        <div class=\"timeline-badge danger\"><i class=\"glyphicon glyphicon-credit-card\"></i></div>\n        <div class=\"timeline-panel\">\n          <div class=\"timeline-heading\">\n            <h4 class=\"timeline-title\">ESPRIT : Higher private school of engineering and technologies</h4>\n            <p><small class=\"text-muted\"><i class=\"glyphicon glyphicon-time\"></i> 2018-2021</small></p>\n          </div>\n          <div class=\"timeline-body\">\n            <p>TWIN : Technologies of the web and the internet</p>\n          </div>\n        </div>\n      </li>\n      \n  </ul>\n</div>\n</section>\n<!-- services -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12 text-center\">\n        <h2 class=\"section-title\">My services</h2>\n      </div>\n      <div class=\"col-md-4 mb-4 mb-md-0\">\n        <div class=\"card hover-shadow shadow\">\n          <div class=\"card-body text-center px-4 py-5\">\n            <i class=\"ti-palette icon mb-5 d-inline-block\"></i>\n            <h4 class=\"mb-4\">Graphic design</h4>\n            <p>I master adobe tools such as adobe photoshop, adobe XD.</p>\n          </div>\n        </div>\n      </div>\n      <div class=\"col-md-4 mb-4 mb-md-0\">\n        <div class=\"card active-bg-primary hover-shadow shadow\">\n          <div class=\"card-body text-center px-4 py-5\">\n            <i class=\"ti-vector icon mb-5 d-inline-block\"></i>\n            <h4 class=\"mb-4\">Mobile and web development</h4>\n            <p>Able to provide responsive and progressive web apps both on the desktop and mobile platforms.</p>\n          </div>\n        </div>\n      </div>\n      <div class=\"col-md-4 mb-4 mb-md-0\">\n        <div class=\"card hover-shadow shadow\">\n          <div class=\"card-body text-center px-4 py-5\">\n            <i class=\"ti-panel icon mb-5 d-inline-block\"></i>\n            <h4 class=\"mb-4\">Data adminstration</h4>\n            <p>I am able to perform all basic data operations such as data cleansing, scrapping to storing data in a proper database system.</p>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n  <img class=\"img-fluid edu-bg-image w-100\" src=\"assets/images/backgrounds/education-bg.png\" alt=\"bg-image\">\n</section>\n<!-- /services -->\n\n<!-- portfolio -->\n<section class=\"section\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12 text-center\">\n        <h2 class=\"section-title\">My projects</h2>\n      </div>\n    </div>\n    <div class=\"row shuffle-wrapper\">\n      <div class=\"col-lg-4 col-6 mb-4 shuffle-item\">\n        <div class=\"position-relative rounded hover-wrapper\">\n          <img src=\"assets/images/portfolio/item-1.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100\">\n          \n        </div>\n      </div>\n      <div class=\"col-lg-4 col-6 mb-4 shuffle-item\">\n        <div class=\"position-relative rounded hover-wrapper\">\n          <img src=\"assets/images/portfolio/item-2.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100\">\n        \n        </div>\n      </div>\n      <div class=\"col-lg-4 col-6 mb-4 shuffle-item\">\n        <div class=\"position-relative rounded hover-wrapper\">\n          <img src=\"assets/images/portfolio/item-3.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100\">\n        </div>\n      </div>\n      <div class=\"col-lg-4 col-6 mb-4 shuffle-item\">\n        <div class=\"position-relative rounded hover-wrapper\">\n          <img src=\"assets/images/portfolio/item-4.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100\">\n        \n        </div>\n      </div>\n      <div class=\"col-lg-4 col-6 mb-4 shuffle-item\">\n        <div class=\"position-relative rounded hover-wrapper\">\n          <img src=\"assets/images/portfolio/item-5.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100\">\n          \n        </div>\n      </div>\n      <div class=\"col-lg-4 col-6 mb-4 shuffle-item\">\n          <div class=\"position-relative rounded hover-wrapper\">\n            <img src=\"assets/images/portfolio/item-6.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100\">\n            \n          </div>\n        </div>\n    </div>\n  </div>\n</section>\n<!-- /portfolio -->\n\n<!-- testimonial -->\n<section class=\"section bg-primary position-relative testimonial-bg-shapes\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12 text-center\">\n        <h2 class=\"section-title text-white mb-5\">Testimonials</h2>\n      </div>\n      <div class=\"col-lg-10 mx-auto testimonial-slider\">\n        <!-- slider-item -->\n        <div class=\"text-center testimonial-content\">\n          <i class=\"ti-quote-right text-white icon mb-4 d-inline-block\"></i>\n          <p class=\"text-white mb-4\">\n             I had the chance to supervise yassine in two internships, at the national center of informatics, both of his projects have left a mark within our team, \n             we are thankful to him for demonstrating such a professional sense in managing diffculties and of course overcoming them.</p>\n          <img class=\"img-fluid rounded-circle mb-4 d-inline-block\" src=\"assets/images/testimonial/client-1.png\"\n            alt=\"client-image\">\n          <h4 class=\"text-white\">Imen Gherissi</h4>\n          <h6 class=\"text-white mb-4\">Lead Engineer, CNI</h6>\n        </div>\n        <!-- slider-item -->\n        <div class=\"text-center testimonial-content\">\n          <i class=\"ti-quote-right text-white icon mb-4 d-inline-block\"></i>\n          <p class=\"text-white mb-4\">\n            The major purpose of the internship was to work on one of our key projects\n            in education.\n            Within days, my team and I noticed his fast adaption to our company\n            culture. Mr. Ben Hamida is a fast learner and a hard worker.\n            As Mr. Ben Hamida helped us to solve keys issues, he quickly emerged as\n            our best intern ever, in a way that we quickly forgot he was even an intern\n            within our company.\n            I highly recommend Mr. Yassine Ben Hamida as I believe he will be of\n            exceptional advantage to your organization/program.\n             </p>\n          <img class=\"img-fluid rounded-circle mb-4 d-inline-block\" src=\"assets/images/testimonial/client-2.png\"\n            alt=\"client-image\">\n          <h4 class=\"text-white\">Chris mugnier</h4>\n          <h6 class=\"text-white mb-4\">CTO , ZettaByte Pte Ltd.</h6>\n        </div>\n      </div>\n    </div>\n  </div>\n  <!-- bg shapes -->\n  <img src=\"assets/images/backgrounds/map.png\" alt=\"map\" class=\"img-fluid bg-map\">\n  <img src=\"assets/images/illustrations/dots-group-v.png\" alt=\"bg-shape\" class=\"img-fluid bg-shape-1\">\n  <img src=\"assets/images/illustrations/leaf-orange.png\" alt=\"bg-shape\" class=\"img-fluid bg-shape-2\">\n  <img src=\"assets/images/illustrations/dots-group-sm.png\" alt=\"bg-shape\" class=\"img-fluid bg-shape-3\">\n  <img src=\"assets/images/illustrations/leaf-pink-round.png\" alt=\"bg-shape\" class=\"img-fluid bg-shape-4\">\n  <img src=\"assets/images/illustrations/leaf-cyan.png\" alt=\"bg-shape\" class=\"img-fluid bg-shape-5\">\n</section>\n<!-- /testimonial -->\n\n\n<!-- /contact -->\n\n<!-- footer -->\n<footer class=\"bg-dark footer-section\">\n  <div class=\"section\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Email</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">yacinbenhamida@hotmail.fr</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Phone number</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">+216 58 014 044</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Address</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">2000, Le bardo Tunis, Tunisia</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/navbar/navbar.component.html":
+/*!************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/navbar/navbar.component.html ***!
+  \************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<html>\n<head></head>\n<body>\n<header class=\"navigation fixed-top\">\n  <nav class=\"navbar navbar-expand-lg navbar-dark\">\n    <a class=\"navbar-brand font-tertiary h3\" routerLink=\"/\"><img src=\"assets/images/logo.png\" alt=\"Myself\"></a>\n    <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navigation\"\n      aria-controls=\"navigation\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n      <span class=\"navbar-toggler-icon\"></span>\n    </button>\n\n    <div class=\"collapse navbar-collapse text-center\" id=\"navigation\">\n      <ul class=\"navbar-nav ml-auto\">\n        <li class=\"nav-item active\">\n          <a  class=\"nav-link\" routerLink=\"/\">Home</a>\n        </li>\n        <li class=\"nav-item\">\n          <a class=\"nav-link\" routerLink=\"/about\" routerLinkActive=\"active\">About</a>\n        </li>\n        \n        <li class=\"nav-item\" disabled>\n          <a class=\"nav-link\" routerLink=\"/portfolio\" >Portfolio</a>\n        </li>\n        <li class=\"nav-item\" disabled>\n          <a class=\"nav-link\" href=\"https://yacinbenhamida.github.io/fr\" >FR</a>\n        </li>\n      </ul>\n    </div>\n  </nav>\n</header>\n</body>\n</html>");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/portfolio-page-article/portfolio-page-article.component.html":
+/*!********************************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/portfolio-page-article/portfolio-page-article.component.html ***!
+  \********************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("<!-- page title -->\n<section class=\"page-title bg-primary position-relative\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-12 text-center\">\n          <h1 class=\"text-white font-tertiary\">{{currArticle}}</h1>\n        </div>\n      </div>\n    </div>\n    <!-- background shapes -->\n    <img src=\"assets/images/illustrations/page-title.png\" alt=\"illustrations\" class=\"bg-shape-1 w-100\">\n    <img src=\"assets/images/illustrations/leaf-pink-round.png\" alt=\"illustrations\" class=\"bg-shape-2\">\n    <img src=\"assets/images/illustrations/dots-cyan.png\" alt=\"illustrations\" class=\"bg-shape-3\">\n    <img src=\"assets/images/illustrations/leaf-orange.png\" alt=\"illustrations\" class=\"bg-shape-4\">\n    <img src=\"assets/images/illustrations/leaf-yellow.png\" alt=\"illustrations\" class=\"bg-shape-5\">\n    <img src=\"assets/images/illustrations/dots-group-cyan.png\" alt=\"illustrations\" class=\"bg-shape-6\">\n    <img src=\"assets/images/illustrations/leaf-cyan-lg.png\" alt=\"illustrations\" class=\"bg-shape-7\">\n  </section>\n  <!-- fixit -->\n  <div *ngIf=\"currArticle == 'fixit'\">\n  <section class=\"section\" >\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-lg-12\" >\n          <h3 class=\"font-tertiary mb-5\">Fixit : find workers from home</h3>\n          <div class=\"content\">\n            <img src=\"assets/images/portfolio/item-1.png\" alt=\"post-thumb\" class=\"img-fluid rounded float-left mr-5 mb-4\"/>\n            <strong>Fixit is a platform that offers its users the ability to find and book various services, either it is gardening, \n              plumbering or even cleaning, fixit connects between the two parties, workers and clients.\n              </strong>\n              <p>\n                Due to the lack of workers in tunisia, people tend to have difficulties while searching for a worker, that's why fixit comes in as an intermediate between these two parties, by connecting between its users, fixit offers a large set of workers for both professionals and individuals.\n                This way fixit finds the perfect worker for you.\n              </p>\n            \n                <blockquote>This project was an academic project conducted as ESPRIT school of engineering, and won a prize as the best project for 2018/2019. (3A)</blockquote> \n          </div>\n        </div>\n      </div>\n    </div>\n  </section>\n  <section>\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-lg-12\">\n          <h4 class=\"font-weight-bold mb-3\">Screenshots</h4>\n          <div class=\"bg-gray p-5 mb-4\">\n            <div class=\"media-body text-center\">\n                <img src=\"assets/images/portfolio/screen1.png\" >\n                <br/>\n                <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                <img src=\"assets/images/portfolio/screen2.png\" >\n                <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                <br/>\n                <img src=\"assets/images/portfolio/screen3.png\" >\n                <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                <br/>\n                <img src=\"assets/images/portfolio/screen4.png\" >\n            </div>\n          </div>        \n        </div>\n      </div>\n      \n    </div>\n  </section>\n</div>\n  \n\n<!-- suim -->\n<div *ngIf=\"currArticle == 'admtc'\">\n    <section class=\"section\" >\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-12\" >\n            <h3 class=\"font-tertiary mb-5\">ADMTC Platform</h3>\n            <div class=\"content\">\n              <img src=\"assets/images/portfolio/item-2.png\" alt=\"post-thumb\" class=\"img-fluid rounded float-left mr-5 mb-4\"/>\n              <strong>Admtc platform for the french RNCP titles management, directly supervised by the french ministry of education and operated by ZettaByte Pte Ltd. \n                  </strong>\n              <p>\n                The RNCP is the national repository for professional certification. Created in 2002, it lists all the training courses certified by the state, i.e. professional titles and diplomas, as well as certificates of professional qualification.\n                that's where ADMTC platform comes in, its main role is tracking the process of certifying the students.\n              </p>  \n              <p><a href=\"https://admtc.pro\">Link</a></p> \n              <blockquote>I have participated in this project as a QA and frontend developer for ZettaByte Pte ltd.</blockquote> \n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n  </div>\n\n  <!-- facturia -->\n<div *ngIf=\"currArticle == 'farmavans'\">\n    <section class=\"section\" >\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-12\" >\n            <h3 class=\"font-tertiary mb-5\">Farmavans ERP : an ERP for a growing company</h3>\n            <div class=\"content\">\n              <img src=\"assets/images/portfolio/item-5.png\" alt=\"post-thumb\" class=\"img-fluid rounded float-left mr-5 mb-4\"/>\n              <strong>Farmavans ERP is the main management system of the company.</strong>\n              <p>FERP  automates certain aspects of the workflow within farmavans itself, thanks to its dashboard, detailed planning and other management tools.</p>   \n              <a href=\"https://gestionfarmavans.com\" >Link</a>\n              <blockquote>This project was lead by me as a freelancing project for the company farmavans.</blockquote> \n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n  </div>\n   <!-- gform -->\n<div *ngIf=\"currArticle == 'amdi'\">\n    <section class=\"section\" >\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-12\" >\n            <h3 class=\"font-tertiary mb-5\">AMDI :A mobile app for tracking the deliveries dates</h3>\n            <div class=\"content\">\n              <img src=\"assets/images/portfolio/item-3.png\" alt=\"post-thumb\" class=\"img-fluid rounded float-left mr-5 mb-4\"/>\n              <strong>AMDI automates the tasks tracking for workers</strong>\n              <p>AMDI operates using angular and node JS</p>\n              <a href=\"https://amdi.tn\" target=\"_blank\">Link</a> \n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n  </div>\n\n  <!-- gform -->\n<div *ngIf=\"currArticle == 'internspace'\">\n    <section class=\"section\" >\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-12\" >\n            <h3 class=\"font-tertiary mb-5\">Internspace : an application for managing the internships of a university</h3>\n            <div class=\"content\">\n              <img src=\"assets/images/portfolio/item-6.png\" alt=\"post-thumb\" class=\"img-fluid rounded float-left mr-5 mb-4\"/>\n              <strong>Internspace : proposes a complete management of the interns and internships within a university.</strong>\n              <p>Internspace also links between company's and students in order to find the right internship / candidate.</p>   \n              <blockquote>This project was an academic project conducted during my studies at ESPRIT.</blockquote> \n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n  </div>\n\n   <!-- gform -->\n<div *ngIf=\"currArticle == 'resumely'\">\n    <section class=\"section\" >\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-12\" >\n            <h3 class=\"font-tertiary mb-5\">Resumely : Identity predictions</h3>\n            <div class=\"content\">\n              <img src=\"assets/images/portfolio/item-4.png\" alt=\"post-thumb\" class=\"img-fluid rounded float-left mr-5 mb-4\"/>\n              <strong>Resumely : Candidates management and identity prediction</strong>\n              <p>developped using the full stack MERN (mongo db , express JS ,reacJS , node JS) , resumely aims to :\n                  •\tParsing resumees<br/>\n                  •\tCustomized web scrapping <br/>\n                  • Identity prediction<br/>\n                  •\tSearch engine using elastic search<br/>\n                  •\tMassive data upload<br/>\n                 The model was based on the supervised learning and aimed to offer a prediction tool for company's.  <br/>\n                  <a href=\"https://github.com/yacinbenhamida/resumely-js\" >Github project</a>\n                 </p>   \n                  \n                  <blockquote>This project was an academic project done in cooperation with the company ATS digital.</blockquote> \n            </div>\n          </div>\n        </div>\n      </div>\n    </section>\n  </div>\n  <!-- footer -->\n  <footer class=\"bg-dark footer-section\">\n    <div class=\"section\">\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-md-4\">\n            <h5 class=\"text-light\">Email</h5>\n            <p class=\"text-white paragraph-lg font-secondary\">yassine.benhamida@esprit.tn</p>\n          </div>\n          <div class=\"col-md-4\">\n            <h5 class=\"text-light\">Phone</h5>\n            <p class=\"text-white paragraph-lg font-secondary\">+21658014044</p>\n          </div>\n          <div class=\"col-md-4\">\n            <h5 class=\"text-light\">Address</h5>\n            <p class=\"text-white paragraph-lg font-secondary\">Bardo, Tunis, Tunisia</p>\n          </div>\n        </div>\n      </div>\n    </div>\n  </footer>\n  <!-- /footer -->");
+
+/***/ }),
+
+/***/ "./node_modules/raw-loader/dist/cjs.js!./src/app/portfolio-page/portfolio-page.component.html":
+/*!****************************************************************************************************!*\
+  !*** ./node_modules/raw-loader/dist/cjs.js!./src/app/portfolio-page/portfolio-page.component.html ***!
+  \****************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n<!-- page title -->\n<section class=\"page-title bg-primary position-relative\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-12 text-center\">\n          <h1 class=\"text-white font-tertiary\">Portfolio</h1>\n        </div>\n      </div>\n    </div>\n    <!-- background shapes -->\n    <img src=\"assets/images/illustrations/page-title.png\" alt=\"illustrations\" class=\"bg-shape-1 w-100\">\n    <img src=\"assets/images/illustrations/dots-cyan.png\" alt=\"illustrations\" class=\"bg-shape-3\">\n    <img src=\"assets/images/illustrations/leaf-orange.png\" alt=\"illustrations\" class=\"bg-shape-4\">\n    <img src=\"assets/images/illustrations/leaf-yellow.png\" alt=\"illustrations\" class=\"bg-shape-5\">\n    <img src=\"assets/images/illustrations/dots-group-cyan.png\" alt=\"illustrations\" class=\"bg-shape-6\">\n    <img src=\"assets/images/illustrations/leaf-cyan-lg.png\" alt=\"illustrations\" class=\"bg-shape-7\">\n  </section>\n  <!-- /page title -->\n  \n  <!-- portfolio -->\n  <section class=\"section\">\n    <div class=\"container\">\n      <div class=\"row mb-5\">\n        \n      </div>\n      <div class=\"row shuffle-wrapper\">\n        <div class=\"col-lg-4 col-6 mb-4 shuffle-item\" data-groups=\"[&quot;design&quot;,&quot;illustration&quot;]\">\n          <div class=\"position-relative rounded hover-wrapper\">\n            <img src=\"assets/images/portfolio/item-1.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100 d-block\">\n            <div class=\"hover-overlay\">\n              <div class=\"hover-content\">\n                <a class=\"btn btn-light btn-sm\" routerLink=\"/portfolio/fixit\">details</a>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-lg-4 col-6 mb-4 shuffle-item\" data-groups=\"[&quot;branding&quot;]\">\n          <div class=\"position-relative rounded hover-wrapper\">\n            <img src=\"assets/images/portfolio/item-2.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100 d-block\">\n            <div class=\"hover-overlay\">\n              <div class=\"hover-content\">\n                <a class=\"btn btn-light btn-sm\"routerLink=\"/portfolio/admtc\">details</a>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-lg-4 col-6 mb-4 shuffle-item\" data-groups=\"[&quot;illustration&quot;]\">\n          <div class=\"position-relative rounded hover-wrapper\">\n            <img src=\"assets/images/portfolio/item-3.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100 d-block\">\n            <div class=\"hover-overlay\">\n              <div class=\"hover-content\">\n                <a class=\"btn btn-light btn-sm\" routerLink=\"/portfolio/amdi\">details</a>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-lg-4 col-6 mb-4 shuffle-item\" data-groups=\"[&quot;illustration&quot;]\">\n            <div class=\"position-relative rounded hover-wrapper\">\n              <img src=\"assets/images/portfolio/item-4.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100 d-block\">\n              <div class=\"hover-overlay\">\n                <div class=\"hover-content\">\n                  <a class=\"btn btn-light btn-sm\" routerLink=\"/portfolio/resumely\">details</a>\n                </div>\n              </div>\n            </div>\n          </div>\n        <div class=\"col-lg-4 col-6 mb-4 shuffle-item\" data-groups=\"[&quot;design&quot;,&quot;branding&quot;]\">\n          <div class=\"position-relative rounded hover-wrapper\">\n            <img src=\"assets/images/portfolio/item-6.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100 d-block\">\n            <div class=\"hover-overlay\">\n              <div class=\"hover-content\">\n                <a class=\"btn btn-light btn-sm\" routerLink=\"/portfolio/internspace\">details</a>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"col-lg-4 col-6 mb-4 shuffle-item\" data-groups=\"[&quot;design&quot;]\">\n          <div class=\"position-relative rounded hover-wrapper\">\n            <img src=\"assets/images/portfolio/item-5.png\" alt=\"portfolio-image\" class=\"img-fluid rounded w-100 d-block\">\n            <div class=\"hover-overlay\">\n              <div class=\"hover-content\">\n                <a class=\"btn btn-light btn-sm\" routerLink=\"/portfolio/farmavans\">details</a>\n              </div>\n            </div>\n          </div>\n        </div>\n       \n      </div>\n    </div>\n  </section>\n  <!-- /portfolio -->\n  <section>\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-12\">\n            <h4 class=\"font-weight-bold mb-3\">Associative experiences and certifications</h4>\n            <div class=\"bg-gray p-5 mb-4\">\n              <div class=\"media-body text-center\">\n                  <img src=\"assets/images/portfolio/group1.png\" >\n                  <br/>\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <br/>\n                  <img src=\"assets/images/portfolio/group2.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <br/>\n                  <img src=\"assets/images/portfolio/group3.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <br/>\n                  <img src=\"assets/images/portfolio/aiesec_cert.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <br/>\n                  <img src=\"assets/images/portfolio/msft_cert.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <img src=\"assets/images/portfolio/msft_ccp1.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <img src=\"assets/images/portfolio/msft_ccp2.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n                  <img src=\"assets/images/portfolio/nvidia.png\" >\n                  <h4 class=\"font-weight-bold mb-3 border-bottom pb-3\"></h4>\n              </div>\n            </div>        \n          </div>\n        </div>\n        \n      </div>\n    </section>\n<!-- footer -->\n<footer class=\"bg-dark footer-section\">\n  <div class=\"section\">\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Email</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">yacinbenhamida@hotmail.fr</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Phone number</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">+216 58 014 044</p>\n        </div>\n        <div class=\"col-md-4\">\n          <h5 class=\"text-light\">Address</h5>\n          <p class=\"text-white paragraph-lg font-secondary\">2000, Le bardo Tunis, Tunisia</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</footer>");
+
+/***/ }),
+
+/***/ "./node_modules/tslib/tslib.es6.js":
+/*!*****************************************!*\
+  !*** ./node_modules/tslib/tslib.es6.js ***!
+  \*****************************************/
+/*! exports provided: __extends, __assign, __rest, __decorate, __param, __metadata, __awaiter, __generator, __createBinding, __exportStar, __values, __read, __spread, __spreadArrays, __await, __asyncGenerator, __asyncDelegator, __asyncValues, __makeTemplateObject, __importStar, __importDefault, __classPrivateFieldGet, __classPrivateFieldSet */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__extends", function() { return __extends; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__assign", function() { return __assign; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__rest", function() { return __rest; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__decorate", function() { return __decorate; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__param", function() { return __param; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__metadata", function() { return __metadata; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__awaiter", function() { return __awaiter; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__generator", function() { return __generator; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__createBinding", function() { return __createBinding; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__exportStar", function() { return __exportStar; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__values", function() { return __values; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__read", function() { return __read; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__spread", function() { return __spread; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__spreadArrays", function() { return __spreadArrays; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__await", function() { return __await; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__asyncGenerator", function() { return __asyncGenerator; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__asyncDelegator", function() { return __asyncDelegator; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__asyncValues", function() { return __asyncValues; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__makeTemplateObject", function() { return __makeTemplateObject; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__importStar", function() { return __importStar; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__importDefault", function() { return __importDefault; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__classPrivateFieldGet", function() { return __classPrivateFieldGet; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__classPrivateFieldSet", function() { return __classPrivateFieldSet; });
+/*! *****************************************************************************
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+/* global Reflect, Promise */
+
+var extendStatics = function(d, b) {
+    extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return extendStatics(d, b);
+};
+
+function __extends(d, b) {
+    extendStatics(d, b);
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+}
+
+var __assign = function() {
+    __assign = Object.assign || function __assign(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p)) t[p] = s[p];
+        }
+        return t;
+    }
+    return __assign.apply(this, arguments);
+}
+
+function __rest(s, e) {
+    var t = {};
+    for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p) && e.indexOf(p) < 0)
+        t[p] = s[p];
+    if (s != null && typeof Object.getOwnPropertySymbols === "function")
+        for (var i = 0, p = Object.getOwnPropertySymbols(s); i < p.length; i++) {
+            if (e.indexOf(p[i]) < 0 && Object.prototype.propertyIsEnumerable.call(s, p[i]))
+                t[p[i]] = s[p[i]];
+        }
+    return t;
+}
+
+function __decorate(decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+}
+
+function __param(paramIndex, decorator) {
+    return function (target, key) { decorator(target, key, paramIndex); }
+}
+
+function __metadata(metadataKey, metadataValue) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(metadataKey, metadataValue);
+}
+
+function __awaiter(thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+}
+
+function __generator(thisArg, body) {
+    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+    function verb(n) { return function (v) { return step([n, v]); }; }
+    function step(op) {
+        if (f) throw new TypeError("Generator is already executing.");
+        while (_) try {
+            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+            if (y = 0, t) op = [op[0] & 2, t.value];
+            switch (op[0]) {
+                case 0: case 1: t = op; break;
+                case 4: _.label++; return { value: op[1], done: false };
+                case 5: _.label++; y = op[1]; op = [0]; continue;
+                case 7: op = _.ops.pop(); _.trys.pop(); continue;
+                default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
+                    if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
+                    if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
+                    if (t[2]) _.ops.pop();
+                    _.trys.pop(); continue;
+            }
+            op = body.call(thisArg, _);
+        } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
+        if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
+    }
+}
+
+function __createBinding(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}
+
+function __exportStar(m, exports) {
+    for (var p in m) if (p !== "default" && !exports.hasOwnProperty(p)) exports[p] = m[p];
+}
+
+function __values(o) {
+    var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
+    if (m) return m.call(o);
+    if (o && typeof o.length === "number") return {
+        next: function () {
+            if (o && i >= o.length) o = void 0;
+            return { value: o && o[i++], done: !o };
+        }
+    };
+    throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
+}
+
+function __read(o, n) {
+    var m = typeof Symbol === "function" && o[Symbol.iterator];
+    if (!m) return o;
+    var i = m.call(o), r, ar = [], e;
+    try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+    }
+    catch (error) { e = { error: error }; }
+    finally {
+        try {
+            if (r && !r.done && (m = i["return"])) m.call(i);
+        }
+        finally { if (e) throw e.error; }
+    }
+    return ar;
+}
+
+function __spread() {
+    for (var ar = [], i = 0; i < arguments.length; i++)
+        ar = ar.concat(__read(arguments[i]));
+    return ar;
+}
+
+function __spreadArrays() {
+    for (var s = 0, i = 0, il = arguments.length; i < il; i++) s += arguments[i].length;
+    for (var r = Array(s), k = 0, i = 0; i < il; i++)
+        for (var a = arguments[i], j = 0, jl = a.length; j < jl; j++, k++)
+            r[k] = a[j];
+    return r;
+};
+
+function __await(v) {
+    return this instanceof __await ? (this.v = v, this) : new __await(v);
+}
+
+function __asyncGenerator(thisArg, _arguments, generator) {
+    if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+    var g = generator.apply(thisArg, _arguments || []), i, q = [];
+    return i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i;
+    function verb(n) { if (g[n]) i[n] = function (v) { return new Promise(function (a, b) { q.push([n, v, a, b]) > 1 || resume(n, v); }); }; }
+    function resume(n, v) { try { step(g[n](v)); } catch (e) { settle(q[0][3], e); } }
+    function step(r) { r.value instanceof __await ? Promise.resolve(r.value.v).then(fulfill, reject) : settle(q[0][2], r); }
+    function fulfill(value) { resume("next", value); }
+    function reject(value) { resume("throw", value); }
+    function settle(f, v) { if (f(v), q.shift(), q.length) resume(q[0][0], q[0][1]); }
+}
+
+function __asyncDelegator(o) {
+    var i, p;
+    return i = {}, verb("next"), verb("throw", function (e) { throw e; }), verb("return"), i[Symbol.iterator] = function () { return this; }, i;
+    function verb(n, f) { i[n] = o[n] ? function (v) { return (p = !p) ? { value: __await(o[n](v)), done: n === "return" } : f ? f(v) : v; } : f; }
+}
+
+function __asyncValues(o) {
+    if (!Symbol.asyncIterator) throw new TypeError("Symbol.asyncIterator is not defined.");
+    var m = o[Symbol.asyncIterator], i;
+    return m ? m.call(o) : (o = typeof __values === "function" ? __values(o) : o[Symbol.iterator](), i = {}, verb("next"), verb("throw"), verb("return"), i[Symbol.asyncIterator] = function () { return this; }, i);
+    function verb(n) { i[n] = o[n] && function (v) { return new Promise(function (resolve, reject) { v = o[n](v), settle(resolve, reject, v.done, v.value); }); }; }
+    function settle(resolve, reject, d, v) { Promise.resolve(v).then(function(v) { resolve({ value: v, done: d }); }, reject); }
+}
+
+function __makeTemplateObject(cooked, raw) {
+    if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+    return cooked;
+};
+
+function __importStar(mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (Object.hasOwnProperty.call(mod, k)) result[k] = mod[k];
+    result.default = mod;
+    return result;
+}
+
+function __importDefault(mod) {
+    return (mod && mod.__esModule) ? mod : { default: mod };
+}
+
+function __classPrivateFieldGet(receiver, privateMap) {
+    if (!privateMap.has(receiver)) {
+        throw new TypeError("attempted to get private field on non-instance");
+    }
+    return privateMap.get(receiver);
+}
+
+function __classPrivateFieldSet(receiver, privateMap, value) {
+    if (!privateMap.has(receiver)) {
+        throw new TypeError("attempted to set private field on non-instance");
+    }
+    privateMap.set(receiver, value);
+    return value;
+}
+
+
+/***/ }),
+
+/***/ "./src/app/about-page/about-page.component.css":
+/*!*****************************************************!*\
+  !*** ./src/app/about-page/about-page.component.css ***!
+  \*****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2Fib3V0LXBhZ2UvYWJvdXQtcGFnZS5jb21wb25lbnQuY3NzIn0= */");
+
+/***/ }),
+
+/***/ "./src/app/about-page/about-page.component.ts":
+/*!****************************************************!*\
+  !*** ./src/app/about-page/about-page.component.ts ***!
+  \****************************************************/
+/*! exports provided: AboutPageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AboutPageComponent", function() { return AboutPageComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let AboutPageComponent = class AboutPageComponent {
+    constructor() { }
+    ngOnInit() {
+    }
+};
+AboutPageComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-about-page',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./about-page.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/about-page/about-page.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./about-page.component.css */ "./src/app/about-page/about-page.component.css")).default]
+    })
+], AboutPageComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/app-routing.module.ts":
+/*!***************************************!*\
+  !*** ./src/app/app-routing.module.ts ***!
+  \***************************************/
+/*! exports provided: AppRoutingModule */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppRoutingModule", function() { return AppRoutingModule; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+/* harmony import */ var _about_page_about_page_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./about-page/about-page.component */ "./src/app/about-page/about-page.component.ts");
+/* harmony import */ var _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./home-page/home-page.component */ "./src/app/home-page/home-page.component.ts");
+/* harmony import */ var _portfolio_page_article_portfolio_page_article_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./portfolio-page-article/portfolio-page-article.component */ "./src/app/portfolio-page-article/portfolio-page-article.component.ts");
+/* harmony import */ var _portfolio_page_portfolio_page_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./portfolio-page/portfolio-page.component */ "./src/app/portfolio-page/portfolio-page.component.ts");
+
+
+
+
+
+
+
+const routes = [{ path: '', component: _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_4__["HomePageComponent"] },
+    { path: 'about', component: _about_page_about_page_component__WEBPACK_IMPORTED_MODULE_3__["AboutPageComponent"] },
+    { path: 'portfolio', component: _portfolio_page_portfolio_page_component__WEBPACK_IMPORTED_MODULE_6__["PortfolioPageComponent"] },
+    { path: 'portfolio/:project', component: _portfolio_page_article_portfolio_page_article_component__WEBPACK_IMPORTED_MODULE_5__["PortfolioPageArticleComponent"] },
+    { path: '**', component: _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_4__["HomePageComponent"] }];
+let AppRoutingModule = class AppRoutingModule {
+};
+AppRoutingModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"])({
+        imports: [_angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterModule"].forRoot(routes)],
+        exports: [_angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterModule"]]
+    })
+], AppRoutingModule);
+
+
+
+/***/ }),
+
+/***/ "./src/app/app.component.css":
+/*!***********************************!*\
+  !*** ./src/app/app.component.css ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuY3NzIn0= */");
+
+/***/ }),
+
+/***/ "./src/app/app.component.ts":
+/*!**********************************!*\
+  !*** ./src/app/app.component.ts ***!
+  \**********************************/
+/*! exports provided: AppComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppComponent", function() { return AppComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let AppComponent = class AppComponent {
+    constructor() {
+        this.title = 'app';
+    }
+};
+AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-root',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./app.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./app.component.css */ "./src/app/app.component.css")).default]
+    })
+], AppComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/app.module.ts":
+/*!*******************************!*\
+  !*** ./src/app/app.module.ts ***!
+  \*******************************/
+/*! exports provided: AppModule */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppModule", function() { return AppModule; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/fesm2015/platform-browser.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
+/* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
+/* harmony import */ var _about_page_about_page_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./about-page/about-page.component */ "./src/app/about-page/about-page.component.ts");
+/* harmony import */ var _contact_pag_contact_pag_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./contact-pag/contact-pag.component */ "./src/app/contact-pag/contact-pag.component.ts");
+/* harmony import */ var _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./home-page/home-page.component */ "./src/app/home-page/home-page.component.ts");
+/* harmony import */ var _navbar_navbar_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./navbar/navbar.component */ "./src/app/navbar/navbar.component.ts");
+/* harmony import */ var _portfolio_page_article_portfolio_page_article_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./portfolio-page-article/portfolio-page-article.component */ "./src/app/portfolio-page-article/portfolio-page-article.component.ts");
+/* harmony import */ var _portfolio_page_portfolio_page_component__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./portfolio-page/portfolio-page.component */ "./src/app/portfolio-page/portfolio-page.component.ts");
+
+
+
+
+
+
+
+
+
+
+
+let AppModule = class AppModule {
+};
+AppModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_2__["NgModule"])({
+        declarations: [
+            _app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"],
+            _about_page_about_page_component__WEBPACK_IMPORTED_MODULE_5__["AboutPageComponent"],
+            _contact_pag_contact_pag_component__WEBPACK_IMPORTED_MODULE_6__["ContactPagComponent"],
+            _home_page_home_page_component__WEBPACK_IMPORTED_MODULE_7__["HomePageComponent"],
+            _navbar_navbar_component__WEBPACK_IMPORTED_MODULE_8__["NavbarComponent"],
+            _portfolio_page_article_portfolio_page_article_component__WEBPACK_IMPORTED_MODULE_9__["PortfolioPageArticleComponent"],
+            _portfolio_page_portfolio_page_component__WEBPACK_IMPORTED_MODULE_10__["PortfolioPageComponent"]
+        ],
+        imports: [
+            _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["BrowserModule"],
+            _app_routing_module__WEBPACK_IMPORTED_MODULE_3__["AppRoutingModule"]
+        ],
+        providers: [],
+        bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_4__["AppComponent"]]
+    })
+], AppModule);
+
+
+
+/***/ }),
+
+/***/ "./src/app/contact-pag/contact-pag.component.css":
+/*!*******************************************************!*\
+  !*** ./src/app/contact-pag/contact-pag.component.css ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2NvbnRhY3QtcGFnL2NvbnRhY3QtcGFnLmNvbXBvbmVudC5jc3MifQ== */");
+
+/***/ }),
+
+/***/ "./src/app/contact-pag/contact-pag.component.ts":
+/*!******************************************************!*\
+  !*** ./src/app/contact-pag/contact-pag.component.ts ***!
+  \******************************************************/
+/*! exports provided: ContactPagComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ContactPagComponent", function() { return ContactPagComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let ContactPagComponent = class ContactPagComponent {
+    constructor() { }
+    ngOnInit() {
+    }
+};
+ContactPagComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-contact-pag',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./contact-pag.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/contact-pag/contact-pag.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./contact-pag.component.css */ "./src/app/contact-pag/contact-pag.component.css")).default]
+    })
+], ContactPagComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/home-page/home-page.component.css":
+/*!***************************************************!*\
+  !*** ./src/app/home-page/home-page.component.css ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (".timeline {\r\n    list-style: none;\r\n    padding: 20px 0 20px;\r\n    position: relative;\r\n  }\r\n  .timeline:before {\r\n    top: 0;\r\n    bottom: 0;\r\n    position: absolute;\r\n    content: \" \";\r\n    width: 3px;\r\n    background-color: #eeeeee;\r\n    left: 50%;\r\n    margin-left: -1.5px;\r\n  }\r\n  .timeline > li {\r\n    margin-bottom: 20px;\r\n    position: relative;\r\n  }\r\n  .timeline > li:before,\r\n  .timeline > li:after {\r\n    content: \" \";\r\n    display: table;\r\n  }\r\n  .timeline > li:after {\r\n    clear: both;\r\n  }\r\n  .timeline > li:before,\r\n  .timeline > li:after {\r\n    content: \" \";\r\n    display: table;\r\n  }\r\n  .timeline > li:after {\r\n    clear: both;\r\n  }\r\n  .timeline > li > .timeline-panel {\r\n    width: 50%;\r\n    float: left;\r\n    border: 1px solid #d4d4d4;\r\n    border-radius: 2px;\r\n    padding: 20px;\r\n    position: relative;\r\n    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);\r\n  }\r\n  .timeline > li.timeline-inverted + li:not(.timeline-inverted),\r\n  .timeline > li:not(.timeline-inverted) + li.timeline-inverted {\r\n  margin-top: -60px;\r\n  }\r\n  .timeline > li:not(.timeline-inverted) {\r\n  padding-right:90px;\r\n  }\r\n  .timeline > li.timeline-inverted {\r\n  padding-left:90px;\r\n  }\r\n  .timeline > li > .timeline-panel:before {\r\n    position: absolute;\r\n    top: 26px;\r\n    right: -15px;\r\n    display: inline-block;\r\n    border-top: 15px solid transparent;\r\n    border-left: 15px solid #ccc;\r\n    border-right: 0 solid #ccc;\r\n    border-bottom: 15px solid transparent;\r\n    content: \" \";\r\n  }\r\n  .timeline > li > .timeline-panel:after {\r\n    position: absolute;\r\n    top: 27px;\r\n    right: -14px;\r\n    display: inline-block;\r\n    border-top: 14px solid transparent;\r\n    border-left: 14px solid #fff;\r\n    border-right: 0 solid #fff;\r\n    border-bottom: 14px solid transparent;\r\n    content: \" \";\r\n  }\r\n  .timeline > li > .timeline-badge {\r\n    color: #fff;\r\n    width: 50px;\r\n    height: 50px;\r\n    line-height: 50px;\r\n    font-size: 1.4em;\r\n    text-align: center;\r\n    position: absolute;\r\n    top: 16px;\r\n    left: 50%;\r\n    margin-left: -25px;\r\n    background-color: #999999;\r\n    z-index: 100;\r\n    border-top-right-radius: 50%;\r\n    border-top-left-radius: 50%;\r\n    border-bottom-right-radius: 50%;\r\n    border-bottom-left-radius: 50%;\r\n  }\r\n  .timeline > li.timeline-inverted > .timeline-panel {\r\n    float: right;\r\n  }\r\n  .timeline > li.timeline-inverted > .timeline-panel:before {\r\n    border-left-width: 0;\r\n    border-right-width: 15px;\r\n    left: -15px;\r\n    right: auto;\r\n  }\r\n  .timeline > li.timeline-inverted > .timeline-panel:after {\r\n    border-left-width: 0;\r\n    border-right-width: 14px;\r\n    left: -14px;\r\n    right: auto;\r\n  }\r\n  .timeline-badge.primary {\r\n    background-color: #2e6da4 !important;\r\n  }\r\n  .timeline-badge.success {\r\n    background-color: #3f903f !important;\r\n  }\r\n  .timeline-badge.warning {\r\n    background-color: #f0ad4e !important;\r\n  }\r\n  .timeline-badge.danger {\r\n    background-color: #d9534f !important;\r\n  }\r\n  .timeline-badge.info {\r\n    background-color: #5bc0de !important;\r\n  }\r\n  .timeline-title {\r\n    margin-top: 0;\r\n    color: inherit;\r\n  }\r\n  .timeline-body > p,\r\n  .timeline-body > ul {\r\n    margin-bottom: 0;\r\n  }\r\n  .timeline-body > p + p {\r\n    margin-top: 5px;\r\n  }\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaG9tZS1wYWdlL2hvbWUtcGFnZS5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksZ0JBQWdCO0lBQ2hCLG9CQUFvQjtJQUNwQixrQkFBa0I7RUFDcEI7RUFDQTtJQUNFLE1BQU07SUFDTixTQUFTO0lBQ1Qsa0JBQWtCO0lBQ2xCLFlBQVk7SUFDWixVQUFVO0lBQ1YseUJBQXlCO0lBQ3pCLFNBQVM7SUFDVCxtQkFBbUI7RUFDckI7RUFDQTtJQUNFLG1CQUFtQjtJQUNuQixrQkFBa0I7RUFDcEI7RUFDQTs7SUFFRSxZQUFZO0lBQ1osY0FBYztFQUNoQjtFQUNBO0lBQ0UsV0FBVztFQUNiO0VBQ0E7O0lBRUUsWUFBWTtJQUNaLGNBQWM7RUFDaEI7RUFDQTtJQUNFLFdBQVc7RUFDYjtFQUNBO0lBQ0UsVUFBVTtJQUNWLFdBQVc7SUFDWCx5QkFBeUI7SUFDekIsa0JBQWtCO0lBQ2xCLGFBQWE7SUFDYixrQkFBa0I7SUFFbEIsMENBQTBDO0VBQzVDO0VBQ0E7O0VBRUEsaUJBQWlCO0VBQ2pCO0VBRUE7RUFDQSxrQkFBa0I7RUFDbEI7RUFFQTtFQUNBLGlCQUFpQjtFQUNqQjtFQUNBO0lBQ0Usa0JBQWtCO0lBQ2xCLFNBQVM7SUFDVCxZQUFZO0lBQ1oscUJBQXFCO0lBQ3JCLGtDQUFrQztJQUNsQyw0QkFBNEI7SUFDNUIsMEJBQTBCO0lBQzFCLHFDQUFxQztJQUNyQyxZQUFZO0VBQ2Q7RUFDQTtJQUNFLGtCQUFrQjtJQUNsQixTQUFTO0lBQ1QsWUFBWTtJQUNaLHFCQUFxQjtJQUNyQixrQ0FBa0M7SUFDbEMsNEJBQTRCO0lBQzVCLDBCQUEwQjtJQUMxQixxQ0FBcUM7SUFDckMsWUFBWTtFQUNkO0VBQ0E7SUFDRSxXQUFXO0lBQ1gsV0FBVztJQUNYLFlBQVk7SUFDWixpQkFBaUI7SUFDakIsZ0JBQWdCO0lBQ2hCLGtCQUFrQjtJQUNsQixrQkFBa0I7SUFDbEIsU0FBUztJQUNULFNBQVM7SUFDVCxrQkFBa0I7SUFDbEIseUJBQXlCO0lBQ3pCLFlBQVk7SUFDWiw0QkFBNEI7SUFDNUIsMkJBQTJCO0lBQzNCLCtCQUErQjtJQUMvQiw4QkFBOEI7RUFDaEM7RUFDQTtJQUNFLFlBQVk7RUFDZDtFQUNBO0lBQ0Usb0JBQW9CO0lBQ3BCLHdCQUF3QjtJQUN4QixXQUFXO0lBQ1gsV0FBVztFQUNiO0VBQ0E7SUFDRSxvQkFBb0I7SUFDcEIsd0JBQXdCO0lBQ3hCLFdBQVc7SUFDWCxXQUFXO0VBQ2I7RUFDQTtJQUNFLG9DQUFvQztFQUN0QztFQUNBO0lBQ0Usb0NBQW9DO0VBQ3RDO0VBQ0E7SUFDRSxvQ0FBb0M7RUFDdEM7RUFDQTtJQUNFLG9DQUFvQztFQUN0QztFQUNBO0lBQ0Usb0NBQW9DO0VBQ3RDO0VBQ0E7SUFDRSxhQUFhO0lBQ2IsY0FBYztFQUNoQjtFQUNBOztJQUVFLGdCQUFnQjtFQUNsQjtFQUNBO0lBQ0UsZUFBZTtFQUNqQiIsImZpbGUiOiJzcmMvYXBwL2hvbWUtcGFnZS9ob21lLXBhZ2UuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi50aW1lbGluZSB7XHJcbiAgICBsaXN0LXN0eWxlOiBub25lO1xyXG4gICAgcGFkZGluZzogMjBweCAwIDIwcHg7XHJcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgfVxyXG4gIC50aW1lbGluZTpiZWZvcmUge1xyXG4gICAgdG9wOiAwO1xyXG4gICAgYm90dG9tOiAwO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgY29udGVudDogXCIgXCI7XHJcbiAgICB3aWR0aDogM3B4O1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogI2VlZWVlZTtcclxuICAgIGxlZnQ6IDUwJTtcclxuICAgIG1hcmdpbi1sZWZ0OiAtMS41cHg7XHJcbiAgfVxyXG4gIC50aW1lbGluZSA+IGxpIHtcclxuICAgIG1hcmdpbi1ib3R0b206IDIwcHg7XHJcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgfVxyXG4gIC50aW1lbGluZSA+IGxpOmJlZm9yZSxcclxuICAudGltZWxpbmUgPiBsaTphZnRlciB7XHJcbiAgICBjb250ZW50OiBcIiBcIjtcclxuICAgIGRpc3BsYXk6IHRhYmxlO1xyXG4gIH1cclxuICAudGltZWxpbmUgPiBsaTphZnRlciB7XHJcbiAgICBjbGVhcjogYm90aDtcclxuICB9XHJcbiAgLnRpbWVsaW5lID4gbGk6YmVmb3JlLFxyXG4gIC50aW1lbGluZSA+IGxpOmFmdGVyIHtcclxuICAgIGNvbnRlbnQ6IFwiIFwiO1xyXG4gICAgZGlzcGxheTogdGFibGU7XHJcbiAgfVxyXG4gIC50aW1lbGluZSA+IGxpOmFmdGVyIHtcclxuICAgIGNsZWFyOiBib3RoO1xyXG4gIH1cclxuICAudGltZWxpbmUgPiBsaSA+IC50aW1lbGluZS1wYW5lbCB7XHJcbiAgICB3aWR0aDogNTAlO1xyXG4gICAgZmxvYXQ6IGxlZnQ7XHJcbiAgICBib3JkZXI6IDFweCBzb2xpZCAjZDRkNGQ0O1xyXG4gICAgYm9yZGVyLXJhZGl1czogMnB4O1xyXG4gICAgcGFkZGluZzogMjBweDtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIC13ZWJraXQtYm94LXNoYWRvdzogMCAxcHggNnB4IHJnYmEoMCwgMCwgMCwgMC4xNzUpO1xyXG4gICAgYm94LXNoYWRvdzogMCAxcHggNnB4IHJnYmEoMCwgMCwgMCwgMC4xNzUpO1xyXG4gIH1cclxuICAudGltZWxpbmUgPiBsaS50aW1lbGluZS1pbnZlcnRlZCArIGxpOm5vdCgudGltZWxpbmUtaW52ZXJ0ZWQpLFxyXG4gIC50aW1lbGluZSA+IGxpOm5vdCgudGltZWxpbmUtaW52ZXJ0ZWQpICsgbGkudGltZWxpbmUtaW52ZXJ0ZWQge1xyXG4gIG1hcmdpbi10b3A6IC02MHB4O1xyXG4gIH1cclxuICBcclxuICAudGltZWxpbmUgPiBsaTpub3QoLnRpbWVsaW5lLWludmVydGVkKSB7XHJcbiAgcGFkZGluZy1yaWdodDo5MHB4O1xyXG4gIH1cclxuICBcclxuICAudGltZWxpbmUgPiBsaS50aW1lbGluZS1pbnZlcnRlZCB7XHJcbiAgcGFkZGluZy1sZWZ0OjkwcHg7XHJcbiAgfVxyXG4gIC50aW1lbGluZSA+IGxpID4gLnRpbWVsaW5lLXBhbmVsOmJlZm9yZSB7XHJcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgICB0b3A6IDI2cHg7XHJcbiAgICByaWdodDogLTE1cHg7XHJcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcbiAgICBib3JkZXItdG9wOiAxNXB4IHNvbGlkIHRyYW5zcGFyZW50O1xyXG4gICAgYm9yZGVyLWxlZnQ6IDE1cHggc29saWQgI2NjYztcclxuICAgIGJvcmRlci1yaWdodDogMCBzb2xpZCAjY2NjO1xyXG4gICAgYm9yZGVyLWJvdHRvbTogMTVweCBzb2xpZCB0cmFuc3BhcmVudDtcclxuICAgIGNvbnRlbnQ6IFwiIFwiO1xyXG4gIH1cclxuICAudGltZWxpbmUgPiBsaSA+IC50aW1lbGluZS1wYW5lbDphZnRlciB7XHJcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XHJcbiAgICB0b3A6IDI3cHg7XHJcbiAgICByaWdodDogLTE0cHg7XHJcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcbiAgICBib3JkZXItdG9wOiAxNHB4IHNvbGlkIHRyYW5zcGFyZW50O1xyXG4gICAgYm9yZGVyLWxlZnQ6IDE0cHggc29saWQgI2ZmZjtcclxuICAgIGJvcmRlci1yaWdodDogMCBzb2xpZCAjZmZmO1xyXG4gICAgYm9yZGVyLWJvdHRvbTogMTRweCBzb2xpZCB0cmFuc3BhcmVudDtcclxuICAgIGNvbnRlbnQ6IFwiIFwiO1xyXG4gIH1cclxuICAudGltZWxpbmUgPiBsaSA+IC50aW1lbGluZS1iYWRnZSB7XHJcbiAgICBjb2xvcjogI2ZmZjtcclxuICAgIHdpZHRoOiA1MHB4O1xyXG4gICAgaGVpZ2h0OiA1MHB4O1xyXG4gICAgbGluZS1oZWlnaHQ6IDUwcHg7XHJcbiAgICBmb250LXNpemU6IDEuNGVtO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgdG9wOiAxNnB4O1xyXG4gICAgbGVmdDogNTAlO1xyXG4gICAgbWFyZ2luLWxlZnQ6IC0yNXB4O1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzk5OTk5OTtcclxuICAgIHotaW5kZXg6IDEwMDtcclxuICAgIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzOiA1MCU7XHJcbiAgICBib3JkZXItdG9wLWxlZnQtcmFkaXVzOiA1MCU7XHJcbiAgICBib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1czogNTAlO1xyXG4gICAgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1czogNTAlO1xyXG4gIH1cclxuICAudGltZWxpbmUgPiBsaS50aW1lbGluZS1pbnZlcnRlZCA+IC50aW1lbGluZS1wYW5lbCB7XHJcbiAgICBmbG9hdDogcmlnaHQ7XHJcbiAgfVxyXG4gIC50aW1lbGluZSA+IGxpLnRpbWVsaW5lLWludmVydGVkID4gLnRpbWVsaW5lLXBhbmVsOmJlZm9yZSB7XHJcbiAgICBib3JkZXItbGVmdC13aWR0aDogMDtcclxuICAgIGJvcmRlci1yaWdodC13aWR0aDogMTVweDtcclxuICAgIGxlZnQ6IC0xNXB4O1xyXG4gICAgcmlnaHQ6IGF1dG87XHJcbiAgfVxyXG4gIC50aW1lbGluZSA+IGxpLnRpbWVsaW5lLWludmVydGVkID4gLnRpbWVsaW5lLXBhbmVsOmFmdGVyIHtcclxuICAgIGJvcmRlci1sZWZ0LXdpZHRoOiAwO1xyXG4gICAgYm9yZGVyLXJpZ2h0LXdpZHRoOiAxNHB4O1xyXG4gICAgbGVmdDogLTE0cHg7XHJcbiAgICByaWdodDogYXV0bztcclxuICB9XHJcbiAgLnRpbWVsaW5lLWJhZGdlLnByaW1hcnkge1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzJlNmRhNCAhaW1wb3J0YW50O1xyXG4gIH1cclxuICAudGltZWxpbmUtYmFkZ2Uuc3VjY2VzcyB7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjM2Y5MDNmICFpbXBvcnRhbnQ7XHJcbiAgfVxyXG4gIC50aW1lbGluZS1iYWRnZS53YXJuaW5nIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICNmMGFkNGUgIWltcG9ydGFudDtcclxuICB9XHJcbiAgLnRpbWVsaW5lLWJhZGdlLmRhbmdlciB7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZDk1MzRmICFpbXBvcnRhbnQ7XHJcbiAgfVxyXG4gIC50aW1lbGluZS1iYWRnZS5pbmZvIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6ICM1YmMwZGUgIWltcG9ydGFudDtcclxuICB9XHJcbiAgLnRpbWVsaW5lLXRpdGxlIHtcclxuICAgIG1hcmdpbi10b3A6IDA7XHJcbiAgICBjb2xvcjogaW5oZXJpdDtcclxuICB9XHJcbiAgLnRpbWVsaW5lLWJvZHkgPiBwLFxyXG4gIC50aW1lbGluZS1ib2R5ID4gdWwge1xyXG4gICAgbWFyZ2luLWJvdHRvbTogMDtcclxuICB9XHJcbiAgLnRpbWVsaW5lLWJvZHkgPiBwICsgcCB7XHJcbiAgICBtYXJnaW4tdG9wOiA1cHg7XHJcbiAgfSJdfQ== */");
+
+/***/ }),
+
+/***/ "./src/app/home-page/home-page.component.ts":
+/*!**************************************************!*\
+  !*** ./src/app/home-page/home-page.component.ts ***!
+  \**************************************************/
+/*! exports provided: HomePageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "HomePageComponent", function() { return HomePageComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+
+
+let HomePageComponent = class HomePageComponent {
+    constructor() { }
+    ngOnInit() {
+    }
+};
+HomePageComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-home-page',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./home-page.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/home-page/home-page.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./home-page.component.css */ "./src/app/home-page/home-page.component.css")).default]
+    })
+], HomePageComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/navbar/navbar.component.css":
+/*!*********************************************!*\
+  !*** ./src/app/navbar/navbar.component.css ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL25hdmJhci9uYXZiYXIuY29tcG9uZW50LmNzcyJ9 */");
+
+/***/ }),
+
+/***/ "./src/app/navbar/navbar.component.ts":
+/*!********************************************!*\
+  !*** ./src/app/navbar/navbar.component.ts ***!
+  \********************************************/
+/*! exports provided: NavbarComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NavbarComponent", function() { return NavbarComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+let NavbarComponent = class NavbarComponent {
+    constructor(router) {
+        this.router = router;
+    }
+    ngOnInit() {
+    }
+};
+NavbarComponent.ctorParameters = () => [
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] }
+];
+NavbarComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-navbar',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./navbar.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/navbar/navbar.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./navbar.component.css */ "./src/app/navbar/navbar.component.css")).default]
+    })
+], NavbarComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/portfolio-page-article/portfolio-page-article.component.css":
+/*!*****************************************************************************!*\
+  !*** ./src/app/portfolio-page-article/portfolio-page-article.component.css ***!
+  \*****************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3BvcnRmb2xpby1wYWdlLWFydGljbGUvcG9ydGZvbGlvLXBhZ2UtYXJ0aWNsZS5jb21wb25lbnQuY3NzIn0= */");
+
+/***/ }),
+
+/***/ "./src/app/portfolio-page-article/portfolio-page-article.component.ts":
+/*!****************************************************************************!*\
+  !*** ./src/app/portfolio-page-article/portfolio-page-article.component.ts ***!
+  \****************************************************************************/
+/*! exports provided: PortfolioPageArticleComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PortfolioPageArticleComponent", function() { return PortfolioPageArticleComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+let PortfolioPageArticleComponent = class PortfolioPageArticleComponent {
+    constructor(router) {
+        this.router = router;
+        this.currArticle = "";
+    }
+    ngOnInit() {
+        if (this.router.url.startsWith("/portfolio/")) {
+            switch (this.router.url) {
+                case "/portfolio/fixit":
+                    this.currArticle = "fixit";
+                    break;
+                case "/portfolio/admtc":
+                    this.currArticle = "admtc";
+                    break;
+                case "/portfolio/amdi":
+                    this.currArticle = "amdi";
+                    break;
+                case "/portfolio/resumely":
+                    this.currArticle = "resumely";
+                    break;
+                case "/portfolio/farmavans":
+                    this.currArticle = "farmavans";
+                    break;
+                case "/portfolio/internspace":
+                    this.currArticle = "internspace";
+                    break;
+                default: this.router.navigateByUrl("/portfolio");
+            }
+        }
+    }
+};
+PortfolioPageArticleComponent.ctorParameters = () => [
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] }
+];
+PortfolioPageArticleComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-portfolio-page-article',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./portfolio-page-article.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/portfolio-page-article/portfolio-page-article.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./portfolio-page-article.component.css */ "./src/app/portfolio-page-article/portfolio-page-article.component.css")).default]
+    })
+], PortfolioPageArticleComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/app/portfolio-page/portfolio-page.component.css":
+/*!*************************************************************!*\
+  !*** ./src/app/portfolio-page/portfolio-page.component.css ***!
+  \*************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ("\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3BvcnRmb2xpby1wYWdlL3BvcnRmb2xpby1wYWdlLmNvbXBvbmVudC5jc3MifQ== */");
+
+/***/ }),
+
+/***/ "./src/app/portfolio-page/portfolio-page.component.ts":
+/*!************************************************************!*\
+  !*** ./src/app/portfolio-page/portfolio-page.component.ts ***!
+  \************************************************************/
+/*! exports provided: PortfolioPageComponent */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PortfolioPageComponent", function() { return PortfolioPageComponent; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "./node_modules/@angular/router/fesm2015/router.js");
+
+
+
+let PortfolioPageComponent = class PortfolioPageComponent {
+    constructor(router) {
+        this.router = router;
+        this.currArticle = "";
+    }
+    ngOnInit() {
+    }
+};
+PortfolioPageComponent.ctorParameters = () => [
+    { type: _angular_router__WEBPACK_IMPORTED_MODULE_2__["Router"] }
+];
+PortfolioPageComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
+        selector: 'app-portfolio-page',
+        template: tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! raw-loader!./portfolio-page.component.html */ "./node_modules/raw-loader/dist/cjs.js!./src/app/portfolio-page/portfolio-page.component.html")).default,
+        styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(/*! ./portfolio-page.component.css */ "./src/app/portfolio-page/portfolio-page.component.css")).default]
+    })
+], PortfolioPageComponent);
+
+
+
+/***/ }),
+
+/***/ "./src/environments/environment.ts":
+/*!*****************************************!*\
+  !*** ./src/environments/environment.ts ***!
+  \*****************************************/
+/*! exports provided: environment */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "environment", function() { return environment; });
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+// This file can be replaced during build by using the `fileReplacements` array.
+// `ng build --prod` replaces `environment.ts` with `environment.prod.ts`.
+// The list of file replacements can be found in `angular.json`.
+
+const environment = {
+    production: false
+};
+/*
+ * For easier debugging in development mode, you can import the following file
+ * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
+ *
+ * This import should be commented out in production mode because it will have a negative impact
+ * on performance if an error is thrown.
+ */
+// import 'zone.js/dist/zone-error';  // Included with Angular CLI.
+
+
+/***/ }),
+
+/***/ "./src/main.ts":
+/*!*********************!*\
+  !*** ./src/main.ts ***!
+  \*********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var tslib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! tslib */ "./node_modules/tslib/tslib.es6.js");
+/* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm2015/core.js");
+/* harmony import */ var _angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/platform-browser-dynamic */ "./node_modules/@angular/platform-browser-dynamic/fesm2015/platform-browser-dynamic.js");
+/* harmony import */ var _app_app_module__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app/app.module */ "./src/app/app.module.ts");
+/* harmony import */ var _environments_environment__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./environments/environment */ "./src/environments/environment.ts");
+
+
+
+
+
+if (_environments_environment__WEBPACK_IMPORTED_MODULE_4__["environment"].production) {
+    Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["enableProdMode"])();
+}
+Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformBrowserDynamic"])().bootstrapModule(_app_app_module__WEBPACK_IMPORTED_MODULE_3__["AppModule"])
+    .catch(err => console.error(err));
+
+
+/***/ }),
+
+/***/ 0:
+/*!***************************!*\
+  !*** multi ./src/main.ts ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__(/*! C:\Users\USER\Desktop\WORK\Projects\englishversion\src\main.ts */"./src/main.ts");
+
+
+/***/ })
+
+},[[0,"runtime","vendor"]]]);
+//# sourceMappingURL=main-es2015.js.map
